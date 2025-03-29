@@ -7,6 +7,8 @@ This project demonstrates how to create a flash effect for 2D sprites using GUI/
 ![screenshot](Assets/Screenshot/screenshot.png)
 
 ## Version History
+**V 1.1 - (2025-03-29)**
+- Shake options and effects added
 
 **V 0.1 - (2025-03-28)**
 - Initial version
